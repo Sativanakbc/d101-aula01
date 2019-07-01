@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+nav {
+  background-color: midnightblue;
+  height: 60px;
+}
+
+nav a {
+  line-height: 60px;
+  font-size: 22px;
+  color: coral;
+  text-decoration: none;
+}
